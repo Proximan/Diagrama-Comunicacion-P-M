@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T06:15:52.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EQMSqtRfHeYn3qVG3Zxe" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-23T06:26:29.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VD96srIHSLQQnQLYTipG" version="20.3.6" type="github" pages="2">
   <diagram id="QCsu4VirYEBSNWfZoZNG" name="Página-1">
-    <mxGraphModel dx="4882" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5145" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,11 +30,10 @@
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-clipart/20190118/ourlarge/pngtree-beautiful-woman-calling-hand-drawn-beauty-calling-parents-phone-chat-png-image_457646.jpg;" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
           <mxGeometry x="36" y="54" width="152.5" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-49" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="Ii2mtit7DXJ0zAR6jc4--3" source="tBXHk4yH-jfTZ-o1EG6H-42" target="tBXHk4yH-jfTZ-o1EG6H-48">
+        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-49" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;entryX=0.072;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ii2mtit7DXJ0zAR6jc4--3" source="tBXHk4yH-jfTZ-o1EG6H-42" target="tBXHk4yH-jfTZ-o1EG6H-48">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1596" y="274" />
-            </Array>
+            <mxPoint x="1666" y="254" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Correo de confirmación para la hora&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fillColor=#66CC00;" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
@@ -43,8 +42,9 @@
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-9" value="Realizar llamado telefónico a la consulta médica" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fontSize=18;fillColor=#66CC00;" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
           <mxGeometry x="176" y="229" width="174" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-52" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=72;entryX=0.276;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ii2mtit7DXJ0zAR6jc4--3" source="tBXHk4yH-jfTZ-o1EG6H-48" target="tBXHk4yH-jfTZ-o1EG6H-51">
+        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-52" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=72;entryX=0.22;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ii2mtit7DXJ0zAR6jc4--3" target="tBXHk4yH-jfTZ-o1EG6H-51">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1816" y="244" as="sourcePoint" />
             <mxPoint x="1946" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -57,9 +57,12 @@
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-51" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Buena atención personal de la&amp;nbsp;clínica&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fillColor=#66CC00;" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
           <mxGeometry x="1896" y="100.5" width="174" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-56" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=72;entryX=0.448;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ii2mtit7DXJ0zAR6jc4--3" source="tBXHk4yH-jfTZ-o1EG6H-53" target="tBXHk4yH-jfTZ-o1EG6H-55">
+        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-56" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=72;entryX=0.335;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ii2mtit7DXJ0zAR6jc4--3" source="tBXHk4yH-jfTZ-o1EG6H-53" target="tBXHk4yH-jfTZ-o1EG6H-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2436" y="124" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2366" y="144" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-53" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sala de espera&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fillColor=#66CC00;" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
@@ -122,20 +125,20 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:31.7px;color:#333333;font-weight: bold;&quot;&gt;Experiencia&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:31.7px;color:#333333;font-weight: bold;&quot;&gt;Positiva&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="jQATXTFjFQdi" id="Ii2mtit7DXJ0zAR6jc4--5">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="-3080" y="493" width="257" height="95" as="geometry" />
+            <mxGeometry x="-3050" y="480.5" width="257" height="95" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:31.7px;color:#333333;font-weight: bold;&quot;&gt;Experiencia&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:31.7px;color:#333333;font-weight: bold;&quot;&gt;Negativa&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="QQATrojP1j28" id="Ii2mtit7DXJ0zAR6jc4--6">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="-3073" y="801" width="257" height="95" as="geometry" />
+            <mxGeometry x="-3050" y="801" width="257" height="95" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ii2mtit7DXJ0zAR6jc4--8" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.05129259694477086;whiteSpace=wrap;fontSize=13;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;rotation=-359.8966550289869;fillColor=#0000CC;gradientColor=#1071e5;strokeWidth=2.3;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2720" y="142.12" width="2690" height="291" as="geometry" />
+        <mxCell id="Ii2mtit7DXJ0zAR6jc4--8" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.05129259694477086;whiteSpace=wrap;fontSize=13;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;rotation=-359.8966550289869;fillColor=#FFFFFF;gradientColor=#1071e5;strokeWidth=2.3;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2760" y="142.08" width="2730" height="291" as="geometry" />
         </mxCell>
         <UserObject label="Mapa De Experiencia Del Paciente" lucidchartObjectId="wWATQxV65In1" id="Ii2mtit7DXJ0zAR6jc4--9">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=90;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="-2419.5" y="-200" width="1650" height="165" as="geometry" />
+            <mxGeometry x="-2410" y="50" width="1650" height="165" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="BYATS9ISMlIe" id="Ii2mtit7DXJ0zAR6jc4--12">

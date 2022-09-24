@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T05:26:06.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="3b34awK8QcKqCKATKTRg" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-24T05:31:46.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="qU5vLjQCP5LTpq9Lt22f" version="20.3.6" type="github" pages="3">
   <diagram id="QCsu4VirYEBSNWfZoZNG" name="Página-1">
-    <mxGraphModel dx="5304" dy="2287" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4410" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-9" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Realizar llamado telefónico a la consulta médica&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fontSize=18;fillColor=#66CC00;" parent="Ii2mtit7DXJ0zAR6jc4--3" vertex="1">
           <mxGeometry x="176" y="229" width="174" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-52" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=72;entryX=0.22;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.964;exitY=0.691;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Ii2mtit7DXJ0zAR6jc4--3" target="tBXHk4yH-jfTZ-o1EG6H-51" edge="1" source="tBXHk4yH-jfTZ-o1EG6H-48">
+        <mxCell id="tBXHk4yH-jfTZ-o1EG6H-52" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=72;entryX=0.22;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.964;exitY=0.691;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Ii2mtit7DXJ0zAR6jc4--3" source="tBXHk4yH-jfTZ-o1EG6H-48" target="tBXHk4yH-jfTZ-o1EG6H-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1816" y="244" as="sourcePoint" />
             <mxPoint x="1946" y="214" as="targetPoint" />
@@ -64,16 +64,16 @@
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-55" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Atención con el médico&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fillColor=#66CC00;" parent="Ii2mtit7DXJ0zAR6jc4--3" vertex="1">
           <mxGeometry x="2366" y="14" width="174" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="l9QjTe3r3NfULfSRtZaf-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.ida.cl/wp-content/uploads/sites/5/2019/05/email_internet-655x470.png;clipPath=inset(0% 7.33% 8.14% 7.67% round 50%);" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
+        <mxCell id="l9QjTe3r3NfULfSRtZaf-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.ida.cl/wp-content/uploads/sites/5/2019/05/email_internet-655x470.png;clipPath=inset(0% 7.33% 8.14% 7.67% round 50%);" parent="Ii2mtit7DXJ0zAR6jc4--3" vertex="1">
           <mxGeometry x="1156.99" y="60.11" width="206.44" height="159.89" as="geometry" />
         </mxCell>
-        <mxCell id="l9QjTe3r3NfULfSRtZaf-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/vector-premium/sala-espera-doctor_102902-179.jpg;clipPath=inset(2.85% 7% 2.85% 10.33% round 50%);" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
+        <mxCell id="l9QjTe3r3NfULfSRtZaf-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/vector-premium/sala-espera-doctor_102902-179.jpg;clipPath=inset(2.85% 7% 2.85% 10.33% round 50%);" parent="Ii2mtit7DXJ0zAR6jc4--3" vertex="1">
           <mxGeometry x="1686" y="14" width="204" height="149.71" as="geometry" />
         </mxCell>
-        <mxCell id="l9QjTe3r3NfULfSRtZaf-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/736x/4a/31/03/4a3103fc9aa75e048dd23642959412d4.jpg;clipPath=inset(19.67% 10.67% 4.33% 4.67% round 50%);" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
+        <mxCell id="l9QjTe3r3NfULfSRtZaf-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/736x/4a/31/03/4a3103fc9aa75e048dd23642959412d4.jpg;clipPath=inset(19.67% 10.67% 4.33% 4.67% round 50%);" parent="Ii2mtit7DXJ0zAR6jc4--3" vertex="1">
           <mxGeometry x="2110.54" y="20" width="178.68" height="160.39" as="geometry" />
         </mxCell>
-        <mxCell id="l9QjTe3r3NfULfSRtZaf-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/icono-de-color-rgb-para-la-atenci%C3%B3n-salud-servicios-sociales-m%C3%A9dicos-sistema-prevenci%C3%B3n-y-gesti%C3%B3n-enfermedades-asistencia-199806929.jpg;clipPath=inset(8.67% 8.33% 13.33% 11% round 50%);" vertex="1" parent="Ii2mtit7DXJ0zAR6jc4--3">
+        <mxCell id="l9QjTe3r3NfULfSRtZaf-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/icono-de-color-rgb-para-la-atenci%C3%B3n-salud-servicios-sociales-m%C3%A9dicos-sistema-prevenci%C3%B3n-y-gesti%C3%B3n-enfermedades-asistencia-199806929.jpg;clipPath=inset(8.67% 8.33% 13.33% 11% round 50%);" parent="Ii2mtit7DXJ0zAR6jc4--3" vertex="1">
           <mxGeometry x="1448" y="38.61" width="134.85" height="130.39" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="NLAT55qhJZ-v" id="Ii2mtit7DXJ0zAR6jc4--4">
@@ -174,50 +174,23 @@
         <mxCell id="tBXHk4yH-jfTZ-o1EG6H-47" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.251;entryY=0.934;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="1" source="tBXHk4yH-jfTZ-o1EG6H-5" target="tBXHk4yH-jfTZ-o1EG6H-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-13" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.4;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-3021" y="-960" width="100" height="100" as="geometry" />
+        <mxCell id="LfuX9HxInUjaWgtlvFxL-14" value="30%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.3513034288612552;arcWidth=0.4;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-2571" y="1120" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-14" value="40%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.4;arcWidth=0.4;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2911" y="-960" width="100" height="100" as="geometry" />
+        <mxCell id="LfuX9HxInUjaWgtlvFxL-16" value="70%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.6950031212374308;arcWidth=0.4;strokeColor=none;fillColor=#23445D;fontSize=22;fontColor=#23445D;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-2754.75" y="1120" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-15" value="25%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.25;arcWidth=0.4;strokeColor=none;fillColor=#AE4132;fontSize=22;fontColor=#AE4132;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2801" y="-960" width="100" height="100" as="geometry" />
+        <mxCell id="LfuX9HxInUjaWgtlvFxL-19" value="Software" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#F2931E;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-2571" y="1090" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-16" value="60%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.6;arcWidth=0.4;strokeColor=none;fillColor=#23445D;fontSize=22;fontColor=#23445D;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2691" y="-960" width="100" height="100" as="geometry" />
+        <mxCell id="LfuX9HxInUjaWgtlvFxL-21" value="Interacción" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#23445D;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-2754.75" y="1090" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-17" value="80%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.8;arcWidth=0.4;strokeColor=none;fillColor=#12AAB5;fontSize=22;fontColor=#12AAB5;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2581" y="-960" width="100" height="100" as="geometry" />
+        <mxCell id="LfuX9HxInUjaWgtlvFxL-23" value="&lt;span style=&quot;text-align: justify;&quot;&gt;El mayor porcentaje de experiencias negativas ocurre en la interacción del personal con el paciente, especialmente el trato de la operadora telefónica, siendo el aspecto más claro a mejorar con prioridad.&amp;nbsp;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="-2764.5" y="1225" width="124.5" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-18" value="Label" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#10739E;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-3021" y="-990" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-19" value="Label" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#F2931E;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2911" y="-990" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-20" value="Label" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#AE4132;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2801" y="-990" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-21" value="Label" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#23445D;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2691" y="-990" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-22" value="Label" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=none;strokeColor=none;fontSize=15;fontColor=#12AAB5;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2581" y="-990" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-23" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="-3021" y="-850" width="100" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-24" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="-2911" y="-850" width="100" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-25" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="-2801" y="-850" width="100" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-26" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="-2691" y="-850" width="100" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LfuX9HxInUjaWgtlvFxL-27" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="-2581" y="-847.5" width="100" height="120" as="geometry" />
+        <mxCell id="LfuX9HxInUjaWgtlvFxL-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;El otro aspecto negativo más destacable corresponde a la mala gestión para solicitar una hora, debido a la falta de un software especializado, lo cual provoca un retardo en la gestión de las horas médicas provocando una sobreacumulación de las mismas.&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;html=1;fillColor=#EEEEEE;strokeColor=none;fontSize=10;align=left;fontStyle=0;rounded=1;whiteSpace=wrap;arcSize=8;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="-2590" y="1225" width="138" height="130" as="geometry" />
         </mxCell>
         <mxCell id="O80SnLB_BNCWzQk8WxFg-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.arc;startAngle=0.14337072356198544;endAngle=0.05120819117478336;strokeWidth=4;strokeColor=#343A40;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="-3050" y="460" width="219.5" height="147" as="geometry" />
@@ -241,7 +214,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-0VjiCkKs7AmiM7W1LQ7" name="Página-3">
-    <mxGraphModel dx="2993" dy="2846" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,7 +380,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Recepción" id="Eg1mIFF2lbzk3eTcqjz8">
-    <mxGraphModel dx="2245" dy="1258" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IdxTZSbRBlcmm2y2ONE0-0" />
         <mxCell id="IdxTZSbRBlcmm2y2ONE0-1" parent="IdxTZSbRBlcmm2y2ONE0-0" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T22:47:15.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DrNUyCiMkkMYvON8iFTo" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T23:07:54.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LNVCKqbceZAMUtgrnMhe" version="21.5.2" type="github">
   <diagram id="SNHthdlhotw0qoZp2tnL" name="Página-4">
     <mxGraphModel dx="1195" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,18 @@
         </mxCell>
         <mxCell id="_ELMGcNG5gGrSkhOwDCZ-93" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;Centros de salud&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-94" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="595" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-95" value="" style="image;html=1;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="160" y="595" width="67.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-96" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-97" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;Costo de producción CPAP, gastos operativos , marketing, costo de materiales e impresión 3D&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="280" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

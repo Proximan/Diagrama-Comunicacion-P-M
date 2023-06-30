@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T09:41:24.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XKP1BtT-sjgsqavo_VbB" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T22:16:45.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S6fnYh0VA4qKdwAAXTCT" version="21.5.2" type="github">
   <diagram id="SNHthdlhotw0qoZp2tnL" name="Página-4">
     <mxGraphModel dx="1235" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,24 @@
         </mxCell>
         <mxCell id="_ELMGcNG5gGrSkhOwDCZ-58" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;Mejorar la calidad de vida&lt;br&gt;de las personas&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-60" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Help_and_Support.svg;" vertex="1" parent="1">
+          <mxGeometry x="573.08" y="90" width="33.83" height="41.69" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-62" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;Atención y soporte personalizado&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-63" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/phone.svg;" vertex="1" parent="1">
+          <mxGeometry x="524.02" y="100" width="41.97" height="33.16" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-64" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.gmail" vertex="1" parent="1">
+          <mxGeometry x="481.19" y="90" width="28.81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ELMGcNG5gGrSkhOwDCZ-63" target="_ELMGcNG5gGrSkhOwDCZ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ELMGcNG5gGrSkhOwDCZ-66" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.onedrive;fillColor=#094AB1;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="475.6" y="118" width="40" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
